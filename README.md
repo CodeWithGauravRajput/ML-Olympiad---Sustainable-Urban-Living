@@ -12,7 +12,7 @@ Your model's performance will be evaluated based on its ability to accurately pr
 
 ## Resources 
 [ml-olympiad-sustainable-urban-living](https://www.kaggle.com/competitions/ml-olympiad-sustainable-urban-living/overview)
-Process Flow for ML Model Implementation [PDF file for Process Flow](https://github.com/Gauravverma069/Kaggle-ML-Olympiad---Sustainable-Urban-Living/blob/main/Kaggle%20project%20process%20flow%20using%20linear%20Regression..pdf)
+
 
 ## Contibution and Suggestion
 if you have any suggestion or improvement point please share.
